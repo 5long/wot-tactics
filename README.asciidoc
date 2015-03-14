@@ -1,0 +1,11 @@
+= Whyme 的坦克世界战术手册
+
+又一本坦克世界的攻略/教程。
+
+== 在线阅读
+
+
+
+== 许可协议
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/[CC BY-NC-SA 3.0]
