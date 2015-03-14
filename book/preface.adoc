@@ -1,4 +1,4 @@
-[preface,id="preface"]
+[preface]
 == 前言
 
 一年来玩了万余场坦克世界，
