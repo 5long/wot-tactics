@@ -1,8 +1,9 @@
-= Whyme 的坦克世界战术手册
+= 炮灰手册
 :author: Whyme Lyu
 :email: callme5long@gmail.com
 :doctype: book
 :toc:
+:sectanchors:
 :lang: zh
 :encoding: utf-8
 
