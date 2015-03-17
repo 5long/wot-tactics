@@ -3,9 +3,18 @@ Whyme Lyu <callme5long@gmail.com>
 v0.2.0, 2015-03-16
 :doctype: book
 :toc:
+:toc-title: 目录
+:toc-placement: preamble
+:numbered:
 :sectanchors:
 :lang: zh
 :encoding: utf-8
+
+本手册尚处于持续更新阶段。
+其中内容会有残缺、待写等问题出现。
+未来也可能会有大幅度改动。
+总之我依然希望能尽早把这些文字发布出来。
+如果能得到重要的读者反(cui)馈(geng)那么就最好。
 
 include::preface.adoc[]
 
@@ -22,5 +31,7 @@ include::sneak-shot.adoc[]
 include::snipe.adoc[]
 
 include::scout.adoc[]
+
+include::patterns.adoc[]
 
 include::appendix.adoc[]
