@@ -1,6 +1,6 @@
 = 炮灰手册
 Whyme Lyu <callme5long@gmail.com>
-v0.2.1, 2015-03-18
+v0.2.2, 2015-03-21
 :doctype: book
 :toc:
 :toc-title: 目录
