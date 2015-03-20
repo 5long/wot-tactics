@@ -1,0 +1,33 @@
+[appendix]
+== 外部资源
+
+这里列出了本书所依赖的
+
+=== 游戏机制
+
+- 官方 Wiki：
+  {url-wg-wiki}
+- 官方 YouTube 频道：
+  {url-wg-youtube}
+
+=== 更新日志
+
+- 亚太服务器官方网站的繁体中文版更新日志汇总：
+  {url-release-notes}
+- 官方 Wiki 的更新日志汇总：
+  {url-wiki-release-notes}
+
+=== 游戏数据
+
+* 装甲密档： {url-tank-inspector}
+
+* 安卓 WoT 知识库： {url-android-kb-play}
+
+  ** 如果你的安卓设备无法访问 Google Play
+     Market，可以考虑从“坦克世界知识库”贴吧下载：
+     {url-android-kb-tieba}
+
+* WOTINFO.NET：
+  {url-wotinfo}
+  可查询车辆内部模块分布与车辆隐蔽系数。
+  提供了一个完整的点亮距离计算器。

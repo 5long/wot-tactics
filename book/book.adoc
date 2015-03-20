@@ -10,6 +10,8 @@ v0.2.1, 2015-03-18
 :lang: zh
 :encoding: utf-8
 
+include::url.adoc[]
+
 本手册尚处于持续更新阶段。
 其中内容会有残缺、待写等问题出现。
 未来也可能会有大幅度改动。
@@ -18,9 +20,13 @@ v0.2.1, 2015-03-18
 
 include::preface.adoc[]
 
-include::forword.adoc[]
+= 第一部分：概念与基础
+
+include::introduction.adoc[]
 
 include::preparation.adoc[]
+
+= 第二部分：战术
 
 include::shooting.adoc[]
 
@@ -32,6 +38,10 @@ include::snipe.adoc[]
 
 include::scout.adoc[]
 
+= 第三部分：定式
+
 include::patterns.adoc[]
 
-include::appendix.adoc[]
+= 附录
+
+include::resources.adoc[]
