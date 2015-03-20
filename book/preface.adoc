@@ -29,3 +29,27 @@
 并尽量不与社区旧有工作重合的部分先开始写起。
 最后就有了这本书。
 但愿本书能够对诸位读者有所帮助。
+
+=== 从哪看这本书
+
+这本书目前以网页版的形式发布。
+“官方”发布地址在 {url-home} 。
+手机用户将页面保存下来即可离线观看。
+
+本书的源代码以 AsciiDoc 格式写成，
+以 http://asciidoctor.org/[Asciidoctor] 生成 HTML。
+源代码可以在 https://github.com/5long/wot-tactics 找到。
+
+=== 许可协议
+
+本书以
+http://creativecommons.org/licenses/by-nc-sa/3.0/[CC BY-NC-SA 3.0]
+协议发布
+
+=== 关于作者
+
+作者的游戏 ID 是
+http://ncw.worldoftanks.cn/community/accounts/1517018148/[whymelyu]
+你可以在这里：
+http://wot-baddie.tumblr.com/about
+了解到更多关于作者的个人信息。
